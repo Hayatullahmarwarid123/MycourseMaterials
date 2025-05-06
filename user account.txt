@@ -1,0 +1,20 @@
+user account
+User mean a person who use somthing
+account means free space like room
+user account is used for to store and protect your data from other user.
+
+we have two types of Accounts.
+1. Administrator Account
+2. Satandard Account
+
+Addministrator has full control in the computer
+Standard account doesn't have full control but it is limited
+----------
+making a user account 
+set the password to user account
+change the passwrod
+remove the password to user account
+change the type of the account
+delete user account
+change the account name
+change user account picture

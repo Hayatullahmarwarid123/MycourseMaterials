@@ -1,0 +1,47 @@
+Control Panel(contains all settings of the computer)
+is a window in which we can do the settings of computer hardware, software, internet and network
+
+1: Date and Time
+2: Fonts (contains all the font family which you have in computer)
+3: system(our goul is to know about the computer features) 
+4: Programs & Features
+5: keyboard
+6: Mouse
+7: Power Options
+ADD and Delete Language
+8. Sound
+9. Taskbar & navigation
+10. Device manager
+11. bitlocker 
+12. devices and printer
+13.File explorer
+14. User Account
+15.Administrative tools
+17. Windows Mobility Center
+18. Recovery
+19.Defualt Programs
+21.Ease of Access Center
+22.Auto play
+23.diskpaly
+
+
+Snipping Tools
+use for taking screenshot from computer
+calculater
+use for calculation of operation
+Task Manager
+Clipboard History
+windows key + v
+
+Virtual Desktops
+windows + tab
+ctrl + windows + right arrow key and left arrow key 
+
+some shortcuts
+
+windows + L : lock the screen
+windows + .  ; : Emoji keybaord
+windows + I : open settings
+windows + D : show or hide the desktop
+windows + E : open file Explorer
+

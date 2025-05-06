@@ -1,0 +1,73 @@
+First Day of windows
+-------------------
+0 auto driver is a software that allow the operating system to communicate
+with hardware devices like printer graphics cards, network adapters etc
+   auto driver installation
+
+1 Desktop
+2 Mouse Pointer
+3 Icons
+winodow  build-in icons
+user icons
+
+4 TaskBar
+5 Start Button
+6 Start Menu
+7 Notifecation Area
+8 Quick launch Area
+8 What is window
+9 Type of click single click, double click, right click (pop-up menu)
+
+STEP--2
+
+ Refresh POPUP Menu
+---------
+	View
+		.Larg icons
+		.Medium icons
+		.Small icons
+		.auto arrange icons
+		.Align icons to grid
+		.Show desktop icons
+	Sort by 
+		Name
+		size
+		item type
+		date modified
+
+	Refresh
+
+	cat (Ctrl+x)
+	capy(Ctrl+c)
+	paste(Ctrl+v)
+
+
+Folder (Yellow icon)
+using for storing data like file video picture
+software etc
+------------
+Folder meaking
+New
+from Popup menu
+from shortcut key (ctrl+shift+n)
+
+
+
+
+open
+Rename (F2)
+Delete (delete button)
+Select all (ctrl+a)
+Unod (ctrl+z)
+Redo (ctrl+y)
+sending data to plash or storage Memory
+ sendig data by bluetooth
+Property
+
+-------
+This pc
+Recycle bin
+Wordpad
+Notepad
+paint
+Control Panel
